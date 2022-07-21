@@ -1,0 +1,16 @@
+Informações importantes sobre o git:
+git add . ou git add *
+git commit -m "Mensagem contendo informações sobre os commits"
+git push -u origin 'nome-da-branch'
+Após isso o push -u pode enviar apenas o git push
+Para criar branch pode usar o comando: git checkout -b 'nome-da-branch'
+Para mudar de branch, pode usar o comando: git checkout 'nome-da-branch'
+Para clonar repositório basta usar: git clone <chave ssh do repositório>
+Para verificar o status dos estágios do arquivo git, basta usar: git status
+Para verificar o log utilizar: git log
+Para limpar a tela do Terminal utilizar: ctrl + L ou clear
+Para listar itens utilizar no linux: ls
+Para entrar em pastas: cd
+(cd = change directory)
+Para criar pastas: mkdir
+Para excluir a pasta e seu conteúdo: rm -rf (r de root e f de force)
