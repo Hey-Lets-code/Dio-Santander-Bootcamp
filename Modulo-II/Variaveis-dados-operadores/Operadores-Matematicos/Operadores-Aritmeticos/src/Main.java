@@ -102,8 +102,8 @@ public class Main {
         // c = 2 * 15
         // c = 2 * 15
         // c = 30
-        double ios = --3;
-        System.out.println(ios);
+
+
         System.out.println("c *= i += 5: " + c);
     }
 }
